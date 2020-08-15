@@ -10,3 +10,6 @@
 [submodule "OOP"]
 	path = OOP
 	url = https://github.com/Itsbeenalongday/Object-oriented-programming.git
+[submodule "Algorithm"]
+	path = Algorithm
+	url = https://github.com/Itsbeenalongday/Algorithm.git
