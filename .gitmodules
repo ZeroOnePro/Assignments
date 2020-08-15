@@ -13,3 +13,6 @@
 [submodule "Algorithm"]
 	path = Algorithm
 	url = https://github.com/Itsbeenalongday/Algorithm.git
+[submodule "University"]
+	path = University
+	url = https://github.com/Itsbeenalongday/University.git
