@@ -7,3 +7,6 @@
 [submodule "Data-Structure"]
 	path = Data-Structure
 	url = https://github.com/Itsbeenalongday/Data-Structure.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/Itsbeenalongday/Object-oriented-programming.git
