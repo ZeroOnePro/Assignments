@@ -48,7 +48,7 @@
   <tbody>
     <tr>
       <td style="text-align:center">이산수학</td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">A0</td>
       <td style="text-align:center">3</td>
       <td style="text-align:center">o</td>
     </tr>
@@ -120,7 +120,7 @@
     </tr>
      <tr>
       <td style ="text-align:center">도메인분석및SW설계</td>
-      <td style ="text-align:center"></td>
+      <td style ="text-align:center">A+</td>
       <td style ="text-align:center">3</td>
        <td style="text-align:center">-</td>
     </tr>
