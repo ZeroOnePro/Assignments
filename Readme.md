@@ -126,7 +126,7 @@
     </tr>
      <tr>
       <td style ="text-align:center">캡스톤 디자인</td>
-      <td style ="text-align:center"></td>
+      <td style ="text-align:center">A0</td>
       <td style ="text-align:center">6</td>
        <td style="text-align:center">-</td>
     </tr>
@@ -164,7 +164,7 @@
     </tr>
     <tr>
       <td style="text-align:center">오픈소스SW 입문</td>
-      <td style="text-align:center"> </td>
+      <td style="text-align:center">C+</td>
       <td style="text-align:center">3</td>
       <td style="text-align:center">-</td>
     </tr>
