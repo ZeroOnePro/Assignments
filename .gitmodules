@@ -1,9 +1,6 @@
 [submodule "Computer-Programming"]
 	path = Computer-Programming
 	url = https://github.com/Itsbeenalongday/Computer-Programming.git
-[submodule "Python_lab"]
-	path = Python_lab
-	url = https://github.com/Itsbeenalongday/Python_lab.git
 [submodule "Data-Structure"]
 	path = Data-Structure
 	url = https://github.com/Itsbeenalongday/Data-Structure.git
