@@ -16,3 +16,6 @@
 [submodule "Introduction-to-Creative-Software"]
 	path = Introduction-to-Creative-Software
 	url = git@github.com:ZeroOnePro/Introduction-to-Creative-Software.git
+[submodule "Handwritten-Assignments"]
+	path = Handwritten-Assignments
+	url = git@github.com:ZeroOnePro/Handwritten-Assignments.git
