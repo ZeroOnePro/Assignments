@@ -13,3 +13,6 @@
 [submodule "University"]
 	path = University
 	url = https://github.com/Itsbeenalongday/University.git
+[submodule "Introduction-to-Creative-Software"]
+	path = Introduction-to-Creative-Software
+	url = git@github.com:ZeroOnePro/Introduction-to-Creative-Software.git
